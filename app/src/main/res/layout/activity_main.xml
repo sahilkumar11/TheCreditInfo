@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    android:background="@drawable/grad_gb"
+    tools:context=".activities.MainActivity"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
+
+ <RelativeLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent">
+     <androidx.appcompat.widget.Toolbar
+         android:id="@+id/homePageToolbar"
+         android:layout_width="match_parent"
+         android:layout_height="60dp"
+         android:background="@color/toolbar_login"
+         android:elevation="10dp"
+         >
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:gravity="center"
+             android:orientation="horizontal"
+             android:background="@color/toolbar_login"
+             >
+
+             <TextView
+                 android:id="@+id/textViewOTP"
+                 android:layout_width="0dp"
+                 android:layout_height="wrap_content"
+                 android:layout_weight="1"
+                 android:textStyle="normal"
+                 android:text="@string/appName"
+                 android:textSize="28sp"
+                 android:paddingStart="0dp"
+                 />
+         </LinearLayout>
+     </androidx.appcompat.widget.Toolbar>
+
+     <FrameLayout
+         android:id="@+id/fragment_container"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_below="@id/homePageToolbar"
+         android:layout_above="@id/bottom_navigation"
+         android:focusableInTouchMode="true"
+         />
+
+     <com.google.android.material.bottomnavigation.BottomNavigationView
+         android:id="@+id/bottom_navigation"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignParentBottom="true"
+         app:menu="@menu/buttom_navigation"
+         android:background="?android:attr/windowBackground"
+         app:itemBackground="@drawable/item_bg"
+         />
+ </RelativeLayout>
+
+<!--    <com.google.android.material.navigation.NavigationView-->
+<!--        android:id="@+id/nav_view"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_gravity="start"-->
+<!--        app:headerLayout="@layout/nav_header"-->
+<!--        app:menu="@menu/nav_drawer" />-->
+
+</androidx.drawerlayout.widget.DrawerLayout>

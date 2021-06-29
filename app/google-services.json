@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480399738567",
+    "project_id": "creditinfo-23a99",
+    "storage_bucket": "creditinfo-23a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480399738567:android:bb4cb83f8af5e56dd4a0e2",
+        "android_client_info": {
+          "package_name": "com.test.creditinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480399738567-dd0n746m1n1h6ajoiraub8k60v4daqb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlK6Zj_avVAPZ4kwbeMAfp5m2g06axxlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480399738567-dd0n746m1n1h6ajoiraub8k60v4daqb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
