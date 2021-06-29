@@ -17,22 +17,22 @@ FireBase as a backEnd used.
 
 <h4>Login and signup</h4>
 <div class="row">
-      <img src="/screenshots/IMG_20210629_185600.jpg" width="230" title="logIn">
-      <img src="/screenshots/IMG_20210629_185618.jpg" width="230" title="Registration">     
-      <img src="/screenshots/IMG_20210629_185639.jpg" width="230" title="otpPage">
+      <img src="/screenshots/IMG_20210629_185600.jpg" width="190" title="logIn">
+      <img src="/screenshots/IMG_20210629_185618.jpg" width="190" title="Registration">     
+      <img src="/screenshots/IMG_20210629_185639.jpg" width="190" title="otpPage">
 </div>
 <h4>Home dashBoard , add costumer dashboard and more </h4>
 <div class="row">
-      <img src="/screenshots/Screenshot_2021-06-29-18-17-28-86_25efd25ad667be12754e140df7fe1dd0.jpg" width="230" title="dashboard">
-      <img src="/screenshots/IMG_20210629_185656.jpg" width="230" title="dash">
-      <img src="/screenshots/IMG_20210629_185829.jpg" width="230" title="profile">
+      <img src="/screenshots/Screenshot_2021-06-29-18-17-28-86_25efd25ad667be12754e140df7fe1dd0.jpg" width="190" title="dashboard">
+      <img src="/screenshots/IMG_20210629_185656.jpg" width="190" title="dash">
+      <img src="/screenshots/IMG_20210629_185829.jpg" width="190" title="profile">
 </div>
 
 <h4>Transaction lists and log out page</h4>
 
 <div class="row">
-      <img src="/screenshots/IMG_20210629_185739.jpg" width="230" title="dashboard">
-      <img src="/screenshots/Screenshot_2021-06-29-18-28-23-60_25efd25ad667be12754e140df7fe1dd0.jpg" width="230" title="dash">
-      <img src="/screenshots/IMG_20210629_185901.jpg" width="230" title="profile">
+      <img src="/screenshots/IMG_20210629_185739.jpg" width="190" title="dashboard">
+      <img src="/screenshots/Screenshot_2021-06-29-18-28-23-60_25efd25ad667be12754e140df7fe1dd0.jpg" width="190" title="dash">
+      <img src="/screenshots/IMG_20210629_185901.jpg" width="190" title="profile">
 </div>
 
