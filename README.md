@@ -28,7 +28,7 @@ FireBase as a backEnd used/
       <img src="/screenshots/IMG_20210629_185829.jpg" width="230" title="profile">
 </div>
 
-<h4>Transaction list accepting and giving transactions pages</h4>
+<h4>Transaction lists and log out page</h4>
 
 <div class="row">
       <img src="/screenshots/IMG_20210629_185739.jpg" width="230" title="dashboard">
