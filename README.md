@@ -9,8 +9,8 @@
 app will store data in the cloud so that the user can get the recorded data anytime anywhere.
 
 <h3>Tech stack</h3>
-This application is written in JAVA programming language__
-the project is build in android studio__
+This application is written in JAVA programming language<br />
+the project is build in android studio<br />
 FireBase as a backEnd used.
 ***
 <h3>Screenshots</h3>
